@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\bin\Debug\net8.0\arrays-and-collections.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\bin\Debug\net8.0\arrays-and-collections.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\bin\Debug\net8.0\arrays-and-collections.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\bin\Debug\net8.0\arrays-and-collections.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\bin\Debug\net8.0\arrays-and-collections.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\refint\arrays-and-collections.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\arrays-and-collections.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\4. Arrays and Collections\arrays-and-collections\obj\Debug\net8.0\ref\arrays-and-collections.dll
